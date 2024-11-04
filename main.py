@@ -1,4 +1,3 @@
-from tabnanny import check
 from tkinter import *
 
 # ---------------------------- CONSTANTS ------------------------------- #

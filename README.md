@@ -21,7 +21,7 @@ I developed this project to enhance my productivity, recognizing that I wasn't f
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/pomodoro-timer.git
+    git clone https://github.com/Taran856/pomodoro-start
     cd pomodoro-timer
     ```
 2. Ensure you have Python installed (version 3.6 or above).
